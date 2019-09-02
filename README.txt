@@ -15,4 +15,4 @@ MUX/DEMUX: 74HC4052.
 LED's: Green and Red.
 Voltage regulator: LM317.
 Power Source: 12V voltage source plus a 9V and 1.5V batteries.
-Resistors, Capacitors and Relays.
+Resistors, Transistors, Capacitors and Relays.
