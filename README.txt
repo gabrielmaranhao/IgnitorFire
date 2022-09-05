@@ -4,7 +4,7 @@ a distance of more than 500 masters (already tested).
 Two systems were created, a Receptor responsible for receive the radio messages, and select the right channel to execute the fire action. A Transmitter for receive the messages from the smartphone, and send it to the receptor.
 
 Firmware developed in C for PIC microcontrollers with XC8 compiler.
-PCB hardware created on the EasyEDA platform and manufactured in its own environment in China.
+PCB hardware created on the EasyEDA platform and manufactured in its own environment.
 Handmade welding and assembly.
 
 Main parts:
